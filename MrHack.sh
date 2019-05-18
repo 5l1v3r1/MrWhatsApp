@@ -46,18 +46,29 @@ echo "\033[33;1m [+]Succes"
 sleep 3
 echo "\033[34;1mKode Verifikasi=819250"
 sleep 3
-echo "                          514929"
+echo "514929"
 sleep 4
-echo "                          832916"
+echo "832916"
 sleep 2
-echo "                          613829"
+echo "613829"
 sleep 7
-echo "                          273926"
+echo "273926"
+sleep 3
+echo "910347"
+sleep 6
+echo "157382"
+sleep 5
+echo "819326"
+sleep 12
+echo "342681"
+sleep 7
+echo "019273"
 sleep 8
 echo "\033[37;1mSilahkan Coba Kode Verifikasi Tersebut..."
 sleep 2
 echo "Terimakasih Telah Memakai Script Ini Sayang :*..."
 sleep 3
-echo "Ketik Exit /Enter Untuk Keluar"read p;
+echo "Ketik Exit /Enter Untuk Keluar"
+read p;
 exit;
 
