@@ -40,25 +40,24 @@ read p;
 sleep 1.5
 echo "\033[34;1m [+]Sedang Scaning..."
 sleep 7
-echo "[+] Exploiting...";
-echo "Nomer => $nomer";
-curl -T  http://apparelworld.org/
-sleep 5;
-echo "[+] Done.";
-echo "Tunggu 5-10 Menit Untuk Mendapatkan Code.";
-read -p "Verify Code => " code;
+echo "\033[34;1m [+]Mohon Tunggu Sebentar"
+sleep 6
+echo "\033[33;1m [+]Succes"
+sleep 3
+echo "\033[34;1mKode Verifikasi=819250"
+sleep 3
+echo "                          514929"
+sleep 4
+echo "                          832916"
 sleep 2
-echo "[+] Connecting to whatsapp.com...";
-echo "Login => $nomer";
-sleep 0.5
-echo "Code => $code";
-sleep 0.5
-echo "Target => $target";
-sleep 0.5
-echo "[+] Sending Exploit...";
-echo "Code => $code";
-curl -T  http://apparelworld.org/
-sleep 5
-echo "[+] Success Exploited!";
+echo "                          613829"
+sleep 7
+echo "                          273926"
+sleep 8
+echo "\033[37;1mSilahkan Coba Kode Verifikasi Tersebut..."
+sleep 2
+echo "Terimakasih Telah Memakai Script Ini Sayang :*..."
+sleep 3
+echo "Ketik Exit /Enter Untuk Keluar"read p;
 exit;
 
